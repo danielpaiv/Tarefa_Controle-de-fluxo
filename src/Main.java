@@ -30,6 +30,7 @@ public class Main {
 
         private static void resultado(){
 
+
             Scanner s = new Scanner(System.in);
 
             System.out.println("Digite a nota do aluno");
